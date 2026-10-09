@@ -1,0 +1,17 @@
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=UTF-8:JOUBERT;Pascal;;;
+FN;CHARSET=UTF-8:Pascal JOUBERT
+ORG;CHARSET=UTF-8:DGAC - DSAC Sud-Ouest
+TITLE;CHARSET=UTF-8:Chef de la subdivision Travail Aérien
+TEL;TYPE=CELL,VOICE:+33621543481
+TEL;TYPE=WORK,VOICE:+33557928293
+EMAIL;TYPE=INTERNET,WORK,PREF:pascal.joubert@aviation-civile.gouv.fr
+EMAIL;TYPE=INTERNET,WORK:dsacso-opa-tra-bf@aviation-civile.gouv.fr
+item1.ADR;TYPE=WORK;CHARSET=UTF-8:;;12 rue Marthe Niel;MERIGNAC;;33700;France
+item1.X-ABLabel;CHARSET=UTF-8:Adresse physique
+item2.ADR;TYPE=WORK,POSTAL;CHARSET=UTF-8:TSA 33688;Bloc technique DGAC - Aéroport de Bordeaux Mérignac;;MERIGNAC Cedex;;;France
+item2.X-ABLabel;CHARSET=UTF-8:Adresse postale
+URL:https://www.ecologie.gouv.fr/
+NOTE;CHARSET=UTF-8:Direction de la sécurité de l'aviation civile Sud-Ouest\nDirection générale de l'aviation civile
+END:VCARD
