@@ -1,15 +1,16 @@
 BEGIN:VCARD
 VERSION:3.0
 REV:2026-10-09T00:00:00Z
-N:JOUBERT;Pascal;;DSAC SUD OUEST;DSAC SUD OUEST
+N:JOUBERT;Pascal;
 ORG:DSAC Sud-Ouest
 TITLE:Chef de la subdivision Travail Aérien
 NOTE:Direction de la sécurité de l'aviation civile\nDirection général
  e de l'aviation civile 
 TEL;CELL:+33 (0) 6 21 54 34 81
+TEL;OFFICE: +33 (0) 5 57 92 82 93 
 EMAIL;INTERNET;WORK:pascal.joubert@aviation-civile.gouv.fr
 EMAIL;INTERNET;OTHER:dsacso-opa-tra-bf@aviation-civile.gouv.fr
 URL:https://www.ecologie.gouv.fr/
 ADR;WORK:Bloc technique DGAC - Aéroport de Bordeaux Mérignac ;;12 rue M
- arthe Niel;MERIGNAC;;TSA 33688 MERIGNAC Cedex ;FRANCE
+ arthe Niel;;TSA 33688 MERIGNAC Cedex ;FRANCE
 END:VCARD
